@@ -5,3 +5,4 @@ Add some new text here ... #2
 
 Some random changes to test the checkout of a particular commit!!!
 (Won't even be saved)
+  - Continue to add new content ... #2 second-master
